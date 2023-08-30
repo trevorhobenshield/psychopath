@@ -1,2 +1,2 @@
 # psychopath
-Path Utils for ML Data Prep. 
+File System Utils For Data Science Projects
